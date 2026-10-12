@@ -22,7 +22,7 @@
     "marked": "18.0.14",
     "tailwindcss": "4.3.3",
     "typescript": "7.0.2",
-    "wrangler": "4.137.0"
+    "wrangler": "4.149.0"
   },
   "allowScripts": {
     "esbuild@0.28.1": true,
